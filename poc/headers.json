@@ -1,0 +1,708 @@
+[
+  {
+    "extraHeaders": {
+      ":authority": "2captcha.com",
+      ":method": "GET",
+      ":path": "/demo/recaptcha-v2",
+      ":scheme": "https",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7",
+      "cookie": "guest_currency=usd; user_country=tr; respond_guest_id=guest_7sp2lhgoxrl_1782836865978; timezone=Europe%2FIstanbul; first_visited_page=%2Fdemo%2Frecaptcha-v2; last_visited_page=%2Fdemo%2Frecaptcha-v2; _gcl_au=1.1.350998128.1782836866; _clck=ghavo4%5E2%5Eg7c%5E0%5E2372; _clsk=1etdh6k%5E1782838489553%5E7%5E1%5Ei.clarity.ms%2Fcollect",
+      "priority": "u=0, i",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "document",
+      "sec-fetch-mode": "navigate",
+      "sec-fetch-site": "none",
+      "sec-fetch-user": "?1",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    }
+  },
+  {
+    "extraHeaders": {
+      ":authority": "www.googletagmanager.com",
+      ":method": "GET",
+      ":path": "/gtm.js?id=GTM-54JRQLV",
+      ":scheme": "https",
+      "accept": "*/*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7",
+      "if-modified-since": "Tue, 30 Jun 2026 16:18:49 GMT",
+      "referer": "https://2captcha.com/",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "script",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-storage-access": "active",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    }
+  },
+  {
+    "extraHeaders": {
+      ":authority": "www.google.com",
+      ":method": "GET",
+      ":path": "/recaptcha/api.js?onload=onRecaptchaLoad&render=explicit",
+      ":scheme": "https",
+      "accept": "*/*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7",
+      "cookie": "_GRECAPTCHA=09AKhCRwhXUeeEtkoFHSf0yX3AO_trF-EyK-5BalDzxd3HWG0hZPS3vBymHhF6nYNy_gaM8C83RtPfWJUOnXKIqZM",
+      "referer": "https://2captcha.com/",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "script",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-storage-access": "active",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    }
+  },
+  {
+    "url": "/recaptcha/api2/anchor",
+    "method": "GET",
+    "reqHeaders": {
+      "Referer": "https://2captcha.com/",
+      "Upgrade-Insecure-Requests": "1",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "bodyLen": 0,
+    "extraHeaders": {
+      ":authority": "www.google.com",
+      ":method": "GET",
+      ":path": "/recaptcha/api2/anchor?ar=1&k=6LfD3PIbAAAAAJs_eEHvoOl75_83eXSqpPSRFJ_u&co=aHR0cHM6Ly8yY2FwdGNoYS5jb206NDQz&hl=tr&v=TnA7HacJFoBWt9hnlunBlYfK&size=normal&anchor-ms=20000&execute-ms=30000&cb=ope81xci5yk",
+      ":scheme": "https",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7",
+      "cookie": "_GRECAPTCHA=09AKhCRwhXUeeEtkoFHSf0yX3AO_trF-EyK-5BalDzxd3HWG0hZPS3vBymHhF6nYNy_gaM8C83RtPfWJUOnXKIqZM",
+      "priority": "u=0, i",
+      "referer": "https://2captcha.com/",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "iframe",
+      "sec-fetch-mode": "navigate",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-storage-access": "active",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    }
+  },
+  {
+    "url": "/recaptcha/api2/webworker.js",
+    "method": "GET",
+    "reqHeaders": {
+      "Accept": "*/*"
+    },
+    "bodyLen": 0,
+    "extraHeaders": {
+      ":authority": "www.google.com",
+      ":method": "GET",
+      ":path": "/recaptcha/api2/webworker.js?hl=tr&v=TnA7HacJFoBWt9hnlunBlYfK",
+      ":scheme": "https",
+      "accept": "*/*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7",
+      "cookie": "_GRECAPTCHA=09AKhCRwhXUeeEtkoFHSf0yX3AO_trF-EyK-5BalDzxd3HWG0hZPS3vBymHhF6nYNy_gaM8C83RtPfWJUOnXKIqZM",
+      "priority": "u=4, i",
+      "referer": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LfD3PIbAAAAAJs_eEHvoOl75_83eXSqpPSRFJ_u&co=aHR0cHM6Ly8yY2FwdGNoYS5jb206NDQz&hl=tr&v=TnA7HacJFoBWt9hnlunBlYfK&size=normal&anchor-ms=20000&execute-ms=30000&cb=ope81xci5yk",
+      "sec-fetch-dest": "worker",
+      "sec-fetch-mode": "same-origin",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-storage-access": "active",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    }
+  },
+  {
+    "url": "/recaptcha/api2/logo_48.png",
+    "method": "GET",
+    "reqHeaders": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "Referer": "https://www.gstatic.com/recaptcha/releases/TnA7HacJFoBWt9hnlunBlYfK/styles__ltr.css",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "bodyLen": 0
+  },
+  {
+    "extraHeaders": {
+      ":authority": "2captcha.com",
+      ":method": "POST",
+      ":path": "/cdn-cgi/rum?",
+      ":scheme": "https",
+      "accept": "*/*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7",
+      "content-length": "986",
+      "content-type": "application/json",
+      "cookie": "guest_currency=usd; user_country=tr; respond_guest_id=guest_7sp2lhgoxrl_1782836865978; timezone=Europe%2FIstanbul; first_visited_page=%2Fdemo%2Frecaptcha-v2; last_visited_page=%2Fdemo%2Frecaptcha-v2; _gcl_au=1.1.350998128.1782836866; _clck=ghavo4%5E2%5Eg7c%5E0%5E2372; _clsk=1etdh6k%5E1782838489553%5E7%5E1%5Ei.clarity.ms%2Fcollect; i18next=en",
+      "origin": "https://2captcha.com",
+      "priority": "u=1, i",
+      "referer": "https://2captcha.com/demo/recaptcha-v2",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    }
+  },
+  {
+    "url": "/recaptcha/api2/bframe",
+    "method": "GET",
+    "reqHeaders": {
+      "Referer": "https://2captcha.com/",
+      "Upgrade-Insecure-Requests": "1",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "bodyLen": 0,
+    "extraHeaders": {
+      ":authority": "www.google.com",
+      ":method": "GET",
+      ":path": "/recaptcha/api2/bframe?hl=tr&v=TnA7HacJFoBWt9hnlunBlYfK&k=6LfD3PIbAAAAAJs_eEHvoOl75_83eXSqpPSRFJ_u&bft=0dAFcWeA7OcV8qzi7Q5UUJcOSHrvoGbQUnZyhinPhcHZP4p4V32-_D7QvXH8dZnFoSvPwOhG5TP6_F5BjBhVT6irWMuvBgaFdYuQ",
+      ":scheme": "https",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7",
+      "cookie": "_GRECAPTCHA=09AKhCRwhXUeeEtkoFHSf0yX3AO_trF-EyK-5BalDzxd3HWG0hZPS3vBymHhF6nYNy_gaM8C83RtPfWJUOnXKIqZM",
+      "priority": "u=0, i",
+      "referer": "https://2captcha.com/",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "iframe",
+      "sec-fetch-mode": "navigate",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-storage-access": "active",
+      "sec-fetch-user": "?1",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    }
+  },
+  {
+    "extraHeaders": {
+      ":authority": "www.google.com",
+      ":method": "POST",
+      ":path": "/ccm/collect?rcb=11&frm=0&ae=g&auid=350998128.1782836866&dt=Google%20reCAPTCHA%20v2%20demo%3A%20Sample%20Form%20with%20Google%20reCAPTCHA%20v2&en=page_view&dl=https%3A%2F%2F2captcha.com%2Fdemo%2Frecaptcha-v2&scrsrc=www.googletagmanager.com&rnd=1331625707.1782840681&navt=n&npa=0&ep.ads_data_redaction=0&gtm=45He66t0v855407669za200zd855407669xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~119027224&apve=1&apvf=f&apvc=1&tft=1782840680688&tfd=1909&fmt=8",
+      ":scheme": "https",
+      "accept": "*/*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7",
+      "cache-control": "no-cache",
+      "content-length": "0",
+      "origin": "https://2captcha.com",
+      "pragma": "no-cache",
+      "priority": "u=1, i",
+      "referer": "https://2captcha.com/",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-storage-access": "none",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    }
+  },
+  {
+    "extraHeaders": {
+      ":authority": "cdn.chatapi.net",
+      ":method": "OPTIONS",
+      ":path": "/integration/widgets/config/defef426-b3da-4d67-a8e4-74e7228dd4ae",
+      ":scheme": "https",
+      "accept": "*/*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7",
+      "access-control-request-headers": "content-type",
+      "access-control-request-method": "GET",
+      "origin": "https://2captcha.com",
+      "priority": "u=1, i",
+      "referer": "https://2captcha.com/",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "cross-site",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    }
+  },
+  {
+    "extraHeaders": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, deflate, br, zstd",
+      "Accept-Language": "tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7",
+      "Connection": "keep-alive",
+      "Cookie": "CLID=390ae24602924b858afc011a453442a1.20260630.20270630; MUID=2646B92D784163C727DCAEA579BB62AC",
+      "Host": "www.clarity.ms",
+      "Referer": "https://2captcha.com/",
+      "Sec-Fetch-Dest": "script",
+      "Sec-Fetch-Mode": "no-cors",
+      "Sec-Fetch-Site": "cross-site",
+      "Sec-Fetch-Storage-Access": "active",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    }
+  },
+  {
+    "extraHeaders": {
+      ":authority": "ad.doubleclick.net",
+      ":method": "POST",
+      ":path": "/ccm/s/collect?auid=350998128.1782836866&gtm=45He66t0v855407669za200zd855407669xea",
+      ":scheme": "https",
+      "accept": "*/*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7",
+      "cache-control": "no-cache",
+      "content-length": "0",
+      "origin": "https://2captcha.com",
+      "pragma": "no-cache",
+      "priority": "u=1, i",
+      "referer": "https://2captcha.com/",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-storage-access": "none",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    }
+  },
+  {
+    "extraHeaders": {
+      "Accept": "application/x-clarity-gzip",
+      "Accept-Encoding": "gzip, deflate, br, zstd",
+      "Accept-Language": "tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7",
+      "Connection": "keep-alive",
+      "Content-Length": "35394",
+      "Cookie": "MUID=2646B92D784163C727DCAEA579BB62AC",
+      "Host": "f.clarity.ms",
+      "Origin": "https://2captcha.com",
+      "Referer": "https://2captcha.com/",
+      "Sec-Fetch-Dest": "empty",
+      "Sec-Fetch-Mode": "cors",
+      "Sec-Fetch-Site": "cross-site",
+      "Sec-Fetch-Storage-Access": "active",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    }
+  },
+  {
+    "url": "/recaptcha/api2/reload",
+    "method": "POST",
+    "reqHeaders": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "Referer": "https://www.google.com/recaptcha/api2/bframe?hl=tr&v=TnA7HacJFoBWt9hnlunBlYfK&k=6LfD3PIbAAAAAJs_eEHvoOl75_83eXSqpPSRFJ_u&bft=0dAFcWeA7OcV8qzi7Q5UUJcOSHrvoGbQUnZyhinPhcHZP4p4V32-_D7QvXH8dZnFoSvPwOhG5TP6_F5BjBhVT6irWMuvBgaFdYuQ",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "Content-Type": "application/x-protobuffer",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "bodyLen": 7377,
+    "extraHeaders": {
+      ":authority": "www.google.com",
+      ":method": "POST",
+      ":path": "/recaptcha/api2/reload?k=6LfD3PIbAAAAAJs_eEHvoOl75_83eXSqpPSRFJ_u",
+      ":scheme": "https",
+      "accept": "*/*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7",
+      "content-length": "7377",
+      "content-type": "application/x-protobuffer",
+      "cookie": "_GRECAPTCHA=09AKhCRwhXUeeEtkoFHSf0yX3AO_trF-EyK-5BalDzxd3HWG0hZPS3vBymHhF6nYNy_gaM8C83RtPfWJUOnXKIqZM",
+      "origin": "https://www.google.com",
+      "priority": "u=1, i",
+      "referer": "https://www.google.com/recaptcha/api2/bframe?hl=tr&v=TnA7HacJFoBWt9hnlunBlYfK&k=6LfD3PIbAAAAAJs_eEHvoOl75_83eXSqpPSRFJ_u&bft=0dAFcWeA7OcV8qzi7Q5UUJcOSHrvoGbQUnZyhinPhcHZP4p4V32-_D7QvXH8dZnFoSvPwOhG5TP6_F5BjBhVT6irWMuvBgaFdYuQ",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-storage-access": "active",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    }
+  },
+  {
+    "url": "/recaptcha/api2/canonical_car.png",
+    "method": "GET",
+    "reqHeaders": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "Referer": "https://www.gstatic.com/recaptcha/releases/TnA7HacJFoBWt9hnlunBlYfK/styles__ltr.css",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "bodyLen": 0
+  },
+  {
+    "url": "/recaptcha/api2/refresh_2x.png",
+    "method": "GET",
+    "reqHeaders": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "Referer": "https://www.gstatic.com/recaptcha/releases/TnA7HacJFoBWt9hnlunBlYfK/styles__ltr.css",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "bodyLen": 0
+  },
+  {
+    "url": "/recaptcha/api2/audio_2x.png",
+    "method": "GET",
+    "reqHeaders": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "Referer": "https://www.gstatic.com/recaptcha/releases/TnA7HacJFoBWt9hnlunBlYfK/styles__ltr.css",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "bodyLen": 0
+  },
+  {
+    "url": "/recaptcha/api2/info_2x.png",
+    "method": "GET",
+    "reqHeaders": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "Referer": "https://www.gstatic.com/recaptcha/releases/TnA7HacJFoBWt9hnlunBlYfK/styles__ltr.css",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "bodyLen": 0
+  },
+  {
+    "url": "/recaptcha/api2/payload",
+    "method": "GET",
+    "reqHeaders": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "Referer": "https://www.google.com/recaptcha/api2/bframe?hl=tr&v=TnA7HacJFoBWt9hnlunBlYfK&k=6LfD3PIbAAAAAJs_eEHvoOl75_83eXSqpPSRFJ_u&bft=0dAFcWeA7OcV8qzi7Q5UUJcOSHrvoGbQUnZyhinPhcHZP4p4V32-_D7QvXH8dZnFoSvPwOhG5TP6_F5BjBhVT6irWMuvBgaFdYuQ",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "bodyLen": 0,
+    "extraHeaders": {
+      ":authority": "www.google.com",
+      ":method": "GET",
+      ":path": "/recaptcha/api2/payload?p=06AFcWeA6nQQBUuJhpRnwZUAQihpcq-qfRGNne9mVKJcsoJVLWip98g8hFYxNZqVnIbCBrggVBPkp7ZYFTjAIDnWbqubsbyEA3X3VWbWP75-JE09DsMGu2_XYzXLAtMU7tZuFvs1nKNhwTAHX6lu6zUgKqjBCbEM-GR-WeqCTZCwBgzuplPkzDAi2zn8mglh5vWlNcKYtiQdWD&k=6LfD3PIbAAAAAJs_eEHvoOl75_83eXSqpPSRFJ_u",
+      ":scheme": "https",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7",
+      "cookie": "_GRECAPTCHA=09AKhCRwhHkhby699_YQgZ8mzL-fOvpo-MDEkPUswTiHdQPJ9Fj4SJXXuVTe9wN9KcqRUGOwzdq-TJIZknh-O98JE",
+      "priority": "u=1, i",
+      "referer": "https://www.google.com/recaptcha/api2/bframe?hl=tr&v=TnA7HacJFoBWt9hnlunBlYfK&k=6LfD3PIbAAAAAJs_eEHvoOl75_83eXSqpPSRFJ_u&bft=0dAFcWeA7OcV8qzi7Q5UUJcOSHrvoGbQUnZyhinPhcHZP4p4V32-_D7QvXH8dZnFoSvPwOhG5TP6_F5BjBhVT6irWMuvBgaFdYuQ",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-storage-access": "active",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    }
+  },
+  {
+    "extraHeaders": {
+      ":authority": "cdn.chatapi.net",
+      ":method": "GET",
+      ":path": "/integration/widgets/config/defef426-b3da-4d67-a8e4-74e7228dd4ae",
+      ":scheme": "https",
+      "accept": "application/json",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7",
+      "content-type": "application/json",
+      "if-none-match": "W/\"338-5NJ1jGxcGOPwqmrfX96LtFf7LJo\"",
+      "origin": "https://2captcha.com",
+      "priority": "u=1, i",
+      "referer": "https://2captcha.com/",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "cross-site",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    }
+  },
+  {
+    "extraHeaders": {
+      "Accept": "application/x-clarity-gzip",
+      "Accept-Encoding": "gzip, deflate, br, zstd",
+      "Accept-Language": "tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7",
+      "Connection": "keep-alive",
+      "Content-Length": "911",
+      "Cookie": "MUID=2646B92D784163C727DCAEA579BB62AC",
+      "Host": "f.clarity.ms",
+      "Origin": "https://2captcha.com",
+      "Referer": "https://2captcha.com/",
+      "Sec-Fetch-Dest": "empty",
+      "Sec-Fetch-Mode": "cors",
+      "Sec-Fetch-Site": "cross-site",
+      "Sec-Fetch-Storage-Access": "active",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    }
+  },
+  {
+    "extraHeaders": {
+      ":authority": "app.respond.io",
+      ":method": "OPTIONS",
+      ":path": "/webchat/connect?cId=b103213f08906222b6d05e81a988d62",
+      ":scheme": "https",
+      "accept": "*/*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7",
+      "access-control-request-headers": "content-type",
+      "access-control-request-method": "GET",
+      "origin": "https://2captcha.com",
+      "priority": "u=1, i",
+      "referer": "https://2captcha.com/",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "cross-site",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    }
+  },
+  {
+    "extraHeaders": {
+      "Accept": "application/x-clarity-gzip",
+      "Accept-Encoding": "gzip, deflate, br, zstd",
+      "Accept-Language": "tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7",
+      "Connection": "keep-alive",
+      "Content-Length": "3359",
+      "Cookie": "MUID=2646B92D784163C727DCAEA579BB62AC",
+      "Host": "f.clarity.ms",
+      "Origin": "https://2captcha.com",
+      "Referer": "https://2captcha.com/",
+      "Sec-Fetch-Dest": "empty",
+      "Sec-Fetch-Mode": "cors",
+      "Sec-Fetch-Site": "cross-site",
+      "Sec-Fetch-Storage-Access": "active",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    }
+  },
+  {
+    "extraHeaders": {
+      ":authority": "app.respond.io",
+      ":method": "GET",
+      ":path": "/webchat/connect?cId=b103213f08906222b6d05e81a988d62",
+      ":scheme": "https",
+      "accept": "application/json",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7",
+      "content-type": "application/json",
+      "if-none-match": "W/\"23c-bAFDsBw4SrQAGmSiu+nljlrCWbQ\"",
+      "origin": "https://2captcha.com",
+      "priority": "u=1, i",
+      "referer": "https://2captcha.com/",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "cross-site",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    }
+  },
+  {
+    "extraHeaders": {
+      ":authority": "www.google.com",
+      ":method": "POST",
+      ":path": "/recaptcha/api2/replaceimage?k=6LfD3PIbAAAAAJs_eEHvoOl75_83eXSqpPSRFJ_u",
+      ":scheme": "https",
+      "accept": "*/*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7",
+      "content-length": "4449",
+      "content-type": "application/x-www-form-urlencoded;charset=UTF-8",
+      "cookie": "_GRECAPTCHA=09AKhCRwhHkhby699_YQgZ8mzL-fOvpo-MDEkPUswTiHdQPJ9Fj4SJXXuVTe9wN9KcqRUGOwzdq-TJIZknh-O98JE",
+      "origin": "https://www.google.com",
+      "priority": "u=1, i",
+      "referer": "https://www.google.com/recaptcha/api2/bframe?hl=tr&v=TnA7HacJFoBWt9hnlunBlYfK&k=6LfD3PIbAAAAAJs_eEHvoOl75_83eXSqpPSRFJ_u&bft=0dAFcWeA7OcV8qzi7Q5UUJcOSHrvoGbQUnZyhinPhcHZP4p4V32-_D7QvXH8dZnFoSvPwOhG5TP6_F5BjBhVT6irWMuvBgaFdYuQ",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-storage-access": "active",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    "url": "/recaptcha/api2/replaceimage",
+    "method": "POST",
+    "reqHeaders": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "Referer": "https://www.google.com/recaptcha/api2/bframe?hl=tr&v=TnA7HacJFoBWt9hnlunBlYfK&k=6LfD3PIbAAAAAJs_eEHvoOl75_83eXSqpPSRFJ_u&bft=0dAFcWeA7OcV8qzi7Q5UUJcOSHrvoGbQUnZyhinPhcHZP4p4V32-_D7QvXH8dZnFoSvPwOhG5TP6_F5BjBhVT6irWMuvBgaFdYuQ",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "bodyLen": 4449
+  },
+  {
+    "url": "/recaptcha/api2/payload",
+    "method": "GET",
+    "reqHeaders": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "Referer": "https://www.google.com/recaptcha/api2/bframe?hl=tr&v=TnA7HacJFoBWt9hnlunBlYfK&k=6LfD3PIbAAAAAJs_eEHvoOl75_83eXSqpPSRFJ_u&bft=0dAFcWeA7OcV8qzi7Q5UUJcOSHrvoGbQUnZyhinPhcHZP4p4V32-_D7QvXH8dZnFoSvPwOhG5TP6_F5BjBhVT6irWMuvBgaFdYuQ",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "bodyLen": 0,
+    "extraHeaders": {
+      ":authority": "www.google.com",
+      ":method": "GET",
+      ":path": "/recaptcha/api2/payload?p=06AFcWeA5Rv1U-43IrhPTBdlueFpsuW6GVeWjS9E_PyLnHDdcwyFSazBnf-3YjAHXSCzCqQRIkRRbiT9peQijMhJbw2nQu_JTOkBkBjkyMPgoW23L-efOho0VUc-7tR0X_IPTl4QvttRZUVMLUJboM18gwH7B-3lOsnnYrDnMVTa8zv_75oWr8EqaN9kHtEo-1j6q14FNleP_F&k=6LfD3PIbAAAAAJs_eEHvoOl75_83eXSqpPSRFJ_u&id=4ab462af316fd7d3",
+      ":scheme": "https",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7",
+      "cookie": "_GRECAPTCHA=09AKhCRwhHkhby699_YQgZ8mzL-fOvpo-MDEkPUswTiHdQPJ9Fj4SJXXuVTe9wN9KcqRUGOwzdq-TJIZknh-O98JE",
+      "priority": "i",
+      "referer": "https://www.google.com/recaptcha/api2/bframe?hl=tr&v=TnA7HacJFoBWt9hnlunBlYfK&k=6LfD3PIbAAAAAJs_eEHvoOl75_83eXSqpPSRFJ_u&bft=0dAFcWeA7OcV8qzi7Q5UUJcOSHrvoGbQUnZyhinPhcHZP4p4V32-_D7QvXH8dZnFoSvPwOhG5TP6_F5BjBhVT6irWMuvBgaFdYuQ",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-storage-access": "active",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    }
+  },
+  {
+    "extraHeaders": {
+      ":authority": "cdn.chatapi.net",
+      ":method": "GET",
+      ":path": "/resize/files/373024/1012541/1776334471469/2026_04_16_13.14.00.jpg?height=100&width=100",
+      ":scheme": "https",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7",
+      "priority": "i",
+      "referer": "https://cdn.respond.io/",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-storage-access": "active",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    }
+  },
+  {
+    "extraHeaders": {
+      ":authority": "www.google.com",
+      ":method": "POST",
+      ":path": "/recaptcha/api2/replaceimage?k=6LfD3PIbAAAAAJs_eEHvoOl75_83eXSqpPSRFJ_u",
+      ":scheme": "https",
+      "accept": "*/*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7",
+      "content-length": "7222",
+      "content-type": "application/x-www-form-urlencoded;charset=UTF-8",
+      "cookie": "_GRECAPTCHA=09AKhCRwhHkhby699_YQgZ8mzL-fOvpo-MDEkPUswTiHdQPJ9Fj4SJXXuVTe9wN9KcqRUGOwzdq-TJIZknh-O98JE",
+      "origin": "https://www.google.com",
+      "priority": "u=1, i",
+      "referer": "https://www.google.com/recaptcha/api2/bframe?hl=tr&v=TnA7HacJFoBWt9hnlunBlYfK&k=6LfD3PIbAAAAAJs_eEHvoOl75_83eXSqpPSRFJ_u&bft=0dAFcWeA7OcV8qzi7Q5UUJcOSHrvoGbQUnZyhinPhcHZP4p4V32-_D7QvXH8dZnFoSvPwOhG5TP6_F5BjBhVT6irWMuvBgaFdYuQ",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-storage-access": "active",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    "url": "/recaptcha/api2/replaceimage",
+    "method": "POST",
+    "reqHeaders": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "Referer": "https://www.google.com/recaptcha/api2/bframe?hl=tr&v=TnA7HacJFoBWt9hnlunBlYfK&k=6LfD3PIbAAAAAJs_eEHvoOl75_83eXSqpPSRFJ_u&bft=0dAFcWeA7OcV8qzi7Q5UUJcOSHrvoGbQUnZyhinPhcHZP4p4V32-_D7QvXH8dZnFoSvPwOhG5TP6_F5BjBhVT6irWMuvBgaFdYuQ",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "bodyLen": 7222
+  },
+  {
+    "url": "/recaptcha/api2/payload",
+    "method": "GET",
+    "reqHeaders": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "Referer": "https://www.google.com/recaptcha/api2/bframe?hl=tr&v=TnA7HacJFoBWt9hnlunBlYfK&k=6LfD3PIbAAAAAJs_eEHvoOl75_83eXSqpPSRFJ_u&bft=0dAFcWeA7OcV8qzi7Q5UUJcOSHrvoGbQUnZyhinPhcHZP4p4V32-_D7QvXH8dZnFoSvPwOhG5TP6_F5BjBhVT6irWMuvBgaFdYuQ",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "bodyLen": 0,
+    "extraHeaders": {
+      ":authority": "www.google.com",
+      ":method": "GET",
+      ":path": "/recaptcha/api2/payload?p=06AFcWeA6HT3zmyf8vTDxPgkM5_TmDyyAdkGEitLaIV44ivUF3hYqGpUTfmtd6WG6BK5Zk_dtfrrlZUXflo9Ey9CHwy4OMd44n1vZ5PqXPYsHU9SkqC38yCZlkhE_hYfmHj7tmebljyGn7GDNHvaS8II3ISYUZxo7FAmpTI6B3ViVc6R0sGCmx3GJh-g0N_yXGB7PTHXpTTH0y&k=6LfD3PIbAAAAAJs_eEHvoOl75_83eXSqpPSRFJ_u&id=23bbc776bb2d168a",
+      ":scheme": "https",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7",
+      "cookie": "_GRECAPTCHA=09AKhCRwhHkhby699_YQgZ8mzL-fOvpo-MDEkPUswTiHdQPJ9Fj4SJXXuVTe9wN9KcqRUGOwzdq-TJIZknh-O98JE",
+      "priority": "i",
+      "referer": "https://www.google.com/recaptcha/api2/bframe?hl=tr&v=TnA7HacJFoBWt9hnlunBlYfK&k=6LfD3PIbAAAAAJs_eEHvoOl75_83eXSqpPSRFJ_u&bft=0dAFcWeA7OcV8qzi7Q5UUJcOSHrvoGbQUnZyhinPhcHZP4p4V32-_D7QvXH8dZnFoSvPwOhG5TP6_F5BjBhVT6irWMuvBgaFdYuQ",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-storage-access": "active",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    }
+  },
+  {
+    "extraHeaders": {
+      "Accept": "application/x-clarity-gzip",
+      "Accept-Encoding": "gzip, deflate, br, zstd",
+      "Accept-Language": "tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7",
+      "Connection": "keep-alive",
+      "Content-Length": "908",
+      "Cookie": "MUID=2646B92D784163C727DCAEA579BB62AC",
+      "Host": "f.clarity.ms",
+      "Origin": "https://2captcha.com",
+      "Referer": "https://2captcha.com/",
+      "Sec-Fetch-Dest": "empty",
+      "Sec-Fetch-Mode": "cors",
+      "Sec-Fetch-Site": "cross-site",
+      "Sec-Fetch-Storage-Access": "active",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0",
+      "sec-ch-ua": "\"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    }
+  }
+]

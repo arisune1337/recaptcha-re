@@ -1,0 +1,28 @@
+{
+  "capsolver_key": "",
+  "_capsolver_key_note": "get one at capsolver.com, only needed for capsolver labelers",
+  "proxies": [
+    ""
+  ],
+  "_proxies_note": "Proxy list rotated round-robin across threads, format http://user:pass@host:port, empty string means direct connection.",
+  "threads": 100,
+  "target_per_class": 10000,
+  "_target_note": "stop collecting a (grid,class) once it has this many positive tiles",
+  "max_challenges": 0,
+  "_max_note": "0 = run until every class hits target (or Ctrl-C)",
+  "label_negatives": true,
+  "_neg_note": "if false, only positive tiles are saved",
+  "labeler": "model",
+  "_labeler_note": "model = local ONNX classifier (free), capsolver = paid ground-truth",
+  "model_threshold": 0.55,
+  "model_path": "models/recaptcha_cls_effv2s_128_single.onnx",
+  "model_review_low": 0.35,
+  "impersonate": "chrome",
+  "site_url": "https://your-test-site.example",
+  "site_key": "6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI",
+  "secret_key": "6LeIxAcTAAAAAGm-vKXUxoYh9EYSQ5JsR7A",
+  "version": "TnA7HacJFoBWt9hnlunBlYfK",
+  "request_timeout": 25,
+  "capsolver_timeout": 30,
+  "polite_sleep_ms": 250
+}

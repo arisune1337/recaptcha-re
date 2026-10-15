@@ -1,0 +1,56 @@
+# --- Python ---
+__pycache__/
+*.pyc
+
+# --- Node ---
+node_modules/
+
+# --- Secrets / local config ---
+# config.json holds live keys (capsolver, reCAPTCHA secret) — a sanitized
+# config.example.json is shipped instead; never commit the real one.
+config.json
+# poc/own_key.json duplicates the live reCAPTCHA secret (sitekey/secret/domain)
+poc/own_key.json
+.env
+
+# --- Logs ---
+*.log
+
+# --- Debug / capture artifacts ---
+debug_*.png
+tile_*.png
+*.b64
+
+# --- Large binaries ---
+models/
+
+# --- Build output ---
+dist/
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+
+# --- Google-copyrighted / session material (do not publish) ---
+# 874 KB Google bundle, runtime-required; fetched via scripts/fetch_google.js instead
+recaptcha__en.js
+# verbatim Google api.js loader
+api.js
+# patched copy of the same bundle
+harness/_en_chancap.js
+# derived Google bgprogram data
+poc/bgprogram.json
+poc/prog_capture.json
+harness/attestation_sample.txt
+harness/probe_gen/generated_bgprogram.txt
+# live session tokens/cookies (own-key captures)
+harness/headless_bft.json
+harness/hybrid/capture_own.json
+
+# --- Pre-commit secret-scan exclusions (own-key material found in staging) ---
+# hardcoded fallback of the own reCAPTCHA sitekey (lucille.sh)
+harness/bft_validate.js
+# captured reload body embeds the own sitekey
+harness/emp_reload_1.bin
+# hybrid test result records the own sitekey
+harness/hybrid/result.json

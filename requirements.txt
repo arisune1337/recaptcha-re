@@ -1,0 +1,5 @@
+# solve_tls.py runtime deps (versions verified importable on Python 3.11.8)
+curl_cffi>=0.7,<1.0          # 0.15.0 installed — Chrome-impersonated TLS
+numpy>=1.26                  # 2.4.4 installed
+Pillow>=10.0                 # 12.2.0 installed
+onnxruntime>=1.17            # 1.27.0 installed — local tile classifier

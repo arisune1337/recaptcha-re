@@ -1,0 +1,420 @@
+{
+ "demo": "https://2captcha.com/demo/recaptcha-v2",
+ "capturedAt": "2026-07-01T01:08:07.535Z",
+ "release_v": "TnA7HacJFoBWt9hnlunBlYfK",
+ "session1": {
+  "anchorProgram": {
+   "len": 288043,
+   "bytes": 288043,
+   "sha": "cc2fa59def86a765a97b9357500f0c2bb356fb6f1bcc9249c14b3dfe3e9b8eb5",
+   "head": "[\"BgwAaITkb60W3OoHnsm10OVhTlC23TNj_yA50R",
+   "tail": "jRJmMjIJ6MI8wlvnhV8\",\"x\",\"rclh3oiioy1a\"]"
+  },
+  "bframeProgram": {
+   "len": 335560,
+   "sha": "9a3ec62f010e626bceb5375c1ae064322207a6f8f06a5b3f18e1f12f306b3d15",
+   "head": "[\"BeFeLRQc6b_0GO_0yMkfeFhcxGP0CIukxXlnQX"
+  },
+  "topBodies": [
+   {
+    "url": "https://www.gstatic.com/recaptcha/releases/TnA7HacJFoBWt9hnlunBlYfK/recaptcha__tr.js",
+    "frame": "top",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "contentEncoding": "gzip",
+    "onWire": 386349,
+    "decodedLen": 897199,
+    "sha": "fb4bab74eab44dcde029f2393cf3a13c5c868b2afe591970905645b3e425e9f2",
+    "fetched": true,
+    "head": "(function(){/*.. Copyrig"
+   },
+   {
+    "url": "https://www.gstatic.com/recaptcha/releases/TnA7HacJFoBWt9hnlunBlYfK/recaptcha__tr.js",
+    "frame": "top",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "contentEncoding": "gzip",
+    "onWire": 385893,
+    "decodedLen": 897199,
+    "sha": "fb4bab74eab44dcde029f2393cf3a13c5c868b2afe591970905645b3e425e9f2",
+    "fetched": true,
+    "head": "(function(){/*.. Copyrig"
+   },
+   {
+    "url": "https://www.gstatic.com/recaptcha/releases/TnA7HacJFoBWt9hnlunBlYfK/recaptcha__tr.js",
+    "frame": "top",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "contentEncoding": "gzip",
+    "onWire": 0,
+    "decodedLen": 897199,
+    "sha": "fb4bab74eab44dcde029f2393cf3a13c5c868b2afe591970905645b3e425e9f2",
+    "fetched": true,
+    "head": "(function(){/*.. Copyrig"
+   },
+   {
+    "url": "https://cdn.respond.io/webchat/widget/js/chat.252891e7.js",
+    "frame": "top",
+    "mimeType": "application/javascript",
+    "status": 200,
+    "contentEncoding": "gzip",
+    "onWire": 167514,
+    "decodedLen": 626471,
+    "sha": "5f5e2ec7f24cf9521fd3765ef01fdabe04bc7cb64b5bd0c55b1ab5cc2dca5cb1",
+    "fetched": true,
+    "head": "!function(){var e={8907:"
+   },
+   {
+    "url": "https://2captcha.com/dist/web/assets/index-CW1-jsKw.js",
+    "frame": "top",
+    "mimeType": "application/javascript",
+    "status": 200,
+    "contentEncoding": "br",
+    "onWire": 138367,
+    "decodedLen": 539497,
+    "sha": "45425f2b4b7cf01170206e81a3c55bc9b8e302755d33395a9b04a06a92dd53a4",
+    "fetched": true,
+    "head": "function __vite__mapDeps"
+   },
+   {
+    "url": "https://www.googletagmanager.com/gtm.js?id=GTM-54JRQLV",
+    "frame": "top",
+    "mimeType": "application/javascript",
+    "status": 200,
+    "contentEncoding": "zstd",
+    "onWire": 149668,
+    "decodedLen": 425241,
+    "sha": "5d34645dd78f2615403848d5879ca4d458ed8643e3000b2d904a95c1989b362b",
+    "fetched": true,
+    "head": ".// Copyright 2012 Googl"
+   },
+   {
+    "url": "https://2captcha.com/dist/web/assets/symbol-defs-BqTCejRs.svg",
+    "frame": "top",
+    "mimeType": "image/svg+xml",
+    "status": 200,
+    "contentEncoding": "br",
+    "onWire": 92690,
+    "decodedLen": 346533,
+    "sha": "a31a3e4e711747581619a28c39473ea4464e2ca228fc666b43aa47bd80ae7c0c",
+    "fetched": true,
+    "head": "<svg aria-hidden=\"true\" "
+   },
+   {
+    "url": "https://2captcha.com/demo/recaptcha-v2",
+    "frame": "top",
+    "mimeType": "text/html",
+    "status": 200,
+    "contentEncoding": "br",
+    "onWire": 46733,
+    "decodedLen": 216571,
+    "sha": "34a9f74a750122a167e5f698f8c9f82ebd65440d59ff0e1a6f7d36f7abbcc25f",
+    "fetched": true,
+    "head": "<!DOCTYPE html>.<html la"
+   },
+   {
+    "url": "https://www.gstatic.com/recaptcha/releases/TnA7HacJFoBWt9hnlunBlYfK/styles__ltr.css",
+    "frame": "top",
+    "mimeType": "text/css",
+    "status": 200,
+    "contentEncoding": "gzip",
+    "onWire": 42938,
+    "decodedLen": 83001,
+    "sha": "fadd39c9c553b8c98b6b01f733c9d8ba7f2f1f972b8608e4cb3e46c4a9bf50b0",
+    "fetched": true,
+    "head": ".goog-inline-block{posit"
+   },
+   {
+    "url": "https://www.gstatic.com/recaptcha/releases/TnA7HacJFoBWt9hnlunBlYfK/styles__ltr.css",
+    "frame": "top",
+    "mimeType": "text/css",
+    "status": 200,
+    "contentEncoding": "gzip",
+    "onWire": 0,
+    "decodedLen": 83001,
+    "sha": "fadd39c9c553b8c98b6b01f733c9d8ba7f2f1f972b8608e4cb3e46c4a9bf50b0",
+    "fetched": true,
+    "head": ".goog-inline-block{posit"
+   },
+   {
+    "url": "https://2captcha.com/dist/web/assets/manrope-4qdASHmp.woff2",
+    "frame": "top",
+    "mimeType": "application/octet-stream",
+    "status": 200,
+    "contentEncoding": null,
+    "onWire": 54088,
+    "decodedLen": 53600,
+    "sha": "ce340d48531930f3f2c8b7c47d149f82c9f4413548dd216e0f4d9af94a87c374",
+    "fetched": true,
+    "head": "wOF2.......`............"
+   },
+   {
+    "url": "https://cdn.respond.io/widget/widget.js?wId=defef426-b3da-4d67-a8e4-74e7228dd4ae",
+    "frame": "top",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "contentEncoding": "br",
+    "onWire": 47875,
+    "decodedLen": null,
+    "sha": null,
+    "fetched": false
+   },
+   {
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+    "frame": "top",
+    "mimeType": "font/woff2",
+    "status": 200,
+    "contentEncoding": null,
+    "onWire": 43272,
+    "decodedLen": 43136,
+    "sha": "1404ca348bd75ef836f4dd8b6f2cc719458642d1237c368296b2fc652dca47dc",
+    "fetched": true,
+    "head": "wOF2..............;....."
+   },
+   {
+    "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+    "frame": "top",
+    "mimeType": "font/woff2",
+    "status": 200,
+    "contentEncoding": null,
+    "onWire": 40681,
+    "decodedLen": 40128,
+    "sha": "20b535fa80c8189e3b87d1803038389960203a886d502bc2ef1857affc2f38d2",
+    "fetched": true,
+    "head": "wOF2..............$....F"
+   }
+  ],
+  "cfgTop": {
+   "bigGlobals": [],
+   "bigLeaves": []
+  },
+  "cfgAnchor": {
+   "bigGlobals": [
+    {
+     "key": "__comm",
+     "size": 996910,
+     "kind": "json"
+    }
+   ],
+   "bigLeaves": []
+  }
+ },
+ "session2": {
+  "anchorProgram": {
+   "len": 289563,
+   "bytes": 289563,
+   "sha": "a0254180b3dc5b54998ffe08ce1f737f7650a71823dc494138574fe28751134a",
+   "head": "[\"BedFw15F7D00nGHEgSLwez_AxGDpYDihOIMkM2",
+   "tail": "NzCSNyLCn8u8fcmpII5B\",\"x\",\"7y7602ra696\"]"
+  },
+  "bframeProgram": {
+   "len": 337704,
+   "sha": "46ca0d47a07d267fd26b2bb2ed7354fda7d01a69c815906dbd273ce37ee95968",
+   "head": "[\"BEwLVYr8TWngK8y-JWxaAOKt0LWtCqiGCSuM-Y"
+  },
+  "topBodies": [
+   {
+    "url": "https://www.gstatic.com/recaptcha/releases/TnA7HacJFoBWt9hnlunBlYfK/recaptcha__tr.js",
+    "frame": "top",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "contentEncoding": "gzip",
+    "onWire": 386349,
+    "decodedLen": 897199,
+    "sha": "fb4bab74eab44dcde029f2393cf3a13c5c868b2afe591970905645b3e425e9f2",
+    "fetched": true,
+    "head": "(function(){/*.. Copyrig"
+   },
+   {
+    "url": "https://www.gstatic.com/recaptcha/releases/TnA7HacJFoBWt9hnlunBlYfK/recaptcha__tr.js",
+    "frame": "top",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "contentEncoding": "gzip",
+    "onWire": 385893,
+    "decodedLen": 897199,
+    "sha": "fb4bab74eab44dcde029f2393cf3a13c5c868b2afe591970905645b3e425e9f2",
+    "fetched": true,
+    "head": "(function(){/*.. Copyrig"
+   },
+   {
+    "url": "https://www.gstatic.com/recaptcha/releases/TnA7HacJFoBWt9hnlunBlYfK/recaptcha__tr.js",
+    "frame": "top",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "contentEncoding": "gzip",
+    "onWire": 0,
+    "decodedLen": 897199,
+    "sha": "fb4bab74eab44dcde029f2393cf3a13c5c868b2afe591970905645b3e425e9f2",
+    "fetched": true,
+    "head": "(function(){/*.. Copyrig"
+   },
+   {
+    "url": "https://cdn.respond.io/webchat/widget/js/chat.252891e7.js",
+    "frame": "top",
+    "mimeType": "application/javascript",
+    "status": 200,
+    "contentEncoding": "gzip",
+    "onWire": 167514,
+    "decodedLen": 626471,
+    "sha": "5f5e2ec7f24cf9521fd3765ef01fdabe04bc7cb64b5bd0c55b1ab5cc2dca5cb1",
+    "fetched": true,
+    "head": "!function(){var e={8907:"
+   },
+   {
+    "url": "https://2captcha.com/dist/web/assets/index-CW1-jsKw.js",
+    "frame": "top",
+    "mimeType": "application/javascript",
+    "status": 200,
+    "contentEncoding": "br",
+    "onWire": 138292,
+    "decodedLen": 539497,
+    "sha": "45425f2b4b7cf01170206e81a3c55bc9b8e302755d33395a9b04a06a92dd53a4",
+    "fetched": true,
+    "head": "function __vite__mapDeps"
+   },
+   {
+    "url": "https://www.googletagmanager.com/gtm.js?id=GTM-54JRQLV",
+    "frame": "top",
+    "mimeType": "application/javascript",
+    "status": 200,
+    "contentEncoding": "zstd",
+    "onWire": 149668,
+    "decodedLen": 425241,
+    "sha": "5d34645dd78f2615403848d5879ca4d458ed8643e3000b2d904a95c1989b362b",
+    "fetched": true,
+    "head": ".// Copyright 2012 Googl"
+   },
+   {
+    "url": "https://2captcha.com/dist/web/assets/symbol-defs-BqTCejRs.svg",
+    "frame": "top",
+    "mimeType": "image/svg+xml",
+    "status": 200,
+    "contentEncoding": "br",
+    "onWire": 92666,
+    "decodedLen": 346533,
+    "sha": "a31a3e4e711747581619a28c39473ea4464e2ca228fc666b43aa47bd80ae7c0c",
+    "fetched": true,
+    "head": "<svg aria-hidden=\"true\" "
+   },
+   {
+    "url": "https://2captcha.com/demo/recaptcha-v2",
+    "frame": "top",
+    "mimeType": "text/html",
+    "status": 200,
+    "contentEncoding": "br",
+    "onWire": 46790,
+    "decodedLen": 216571,
+    "sha": "9a0d7705569fff30cec39fa672e629b4dcdbb0dbefd9b2fdcbccb920b92a79a7",
+    "fetched": true,
+    "head": "<!DOCTYPE html>.<html la"
+   },
+   {
+    "url": "https://www.gstatic.com/recaptcha/releases/TnA7HacJFoBWt9hnlunBlYfK/styles__ltr.css",
+    "frame": "top",
+    "mimeType": "text/css",
+    "status": 200,
+    "contentEncoding": "gzip",
+    "onWire": 42938,
+    "decodedLen": 83001,
+    "sha": "fadd39c9c553b8c98b6b01f733c9d8ba7f2f1f972b8608e4cb3e46c4a9bf50b0",
+    "fetched": true,
+    "head": ".goog-inline-block{posit"
+   },
+   {
+    "url": "https://www.gstatic.com/recaptcha/releases/TnA7HacJFoBWt9hnlunBlYfK/styles__ltr.css",
+    "frame": "top",
+    "mimeType": "text/css",
+    "status": 200,
+    "contentEncoding": "gzip",
+    "onWire": 0,
+    "decodedLen": 83001,
+    "sha": "fadd39c9c553b8c98b6b01f733c9d8ba7f2f1f972b8608e4cb3e46c4a9bf50b0",
+    "fetched": true,
+    "head": ".goog-inline-block{posit"
+   },
+   {
+    "url": "https://2captcha.com/dist/web/assets/manrope-4qdASHmp.woff2",
+    "frame": "top",
+    "mimeType": "application/octet-stream",
+    "status": 200,
+    "contentEncoding": null,
+    "onWire": 54003,
+    "decodedLen": 53600,
+    "sha": "ce340d48531930f3f2c8b7c47d149f82c9f4413548dd216e0f4d9af94a87c374",
+    "fetched": true,
+    "head": "wOF2.......`............"
+   },
+   {
+    "url": "https://cdn.respond.io/widget/widget.js?wId=defef426-b3da-4d67-a8e4-74e7228dd4ae",
+    "frame": "top",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "contentEncoding": "br",
+    "onWire": 47873,
+    "decodedLen": null,
+    "sha": null,
+    "fetched": false
+   },
+   {
+    "url": "https://www.google.com/recaptcha/api2/payload?p=06AFcWeA5RBpqzJA9otXt4gB_MIz2JECnaAaTiWxduSzQpSg87VlmfEpwrDwgt5FQD1U90sfSL9gy56_Tb3nBwcb2spsSCJHhHjiYWfnEROmUeTeAbUk5v6oPm0ZAXXL-T1JvRjC1bpi3Bl4j_ys9RYZ99BMROXx0fAVL0ucpqV0GUGvKalAjW6eaUWaKqA57Ssa73jQqjvh_Y&k=6LfD3PIbAAAAAJs_eEHvoOl75_83eXSqpPSRFJ_u",
+    "frame": "top",
+    "mimeType": "image/jpeg",
+    "status": 200,
+    "contentEncoding": null,
+    "onWire": 47941,
+    "decodedLen": 47803,
+    "sha": "caf62a3c5695c47cee7bc46e735bfb37bf696e469fa16d70b83a35b0e4b5add4",
+    "fetched": true,
+    "head": "......JFIF.............C"
+   },
+   {
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+    "frame": "top",
+    "mimeType": "font/woff2",
+    "status": 200,
+    "contentEncoding": null,
+    "onWire": 43686,
+    "decodedLen": 43136,
+    "sha": "1404ca348bd75ef836f4dd8b6f2cc719458642d1237c368296b2fc652dca47dc",
+    "fetched": true,
+    "head": "wOF2..............;....."
+   }
+  ],
+  "cfgTop": {
+   "bigGlobals": [],
+   "bigLeaves": []
+  },
+  "cfgAnchor": {
+   "bigGlobals": [
+    {
+     "key": "__comm",
+     "size": 1002542,
+     "kind": "json"
+    }
+   ],
+   "bigLeaves": []
+  }
+ },
+ "comparison": {
+  "session1_bytes": 288043,
+  "session2_bytes": 289563,
+  "session1_sha": "cc2fa59def86a765a97b9357500f0c2bb356fb6f1bcc9249c14b3dfe3e9b8eb5",
+  "session2_sha": "a0254180b3dc5b54998ffe08ce1f737f7650a71823dc494138574fe28751134a",
+  "byteIdentical": false,
+  "commonPrefixChars": 3
+ },
+ "sessionBoundednessVerdict": "PER-SESSION (totally different from offset 3 -> freshly minted each load)",
+ "closestNetworkBodyToProgram": {
+  "url": "https://2captcha.com/dist/web/assets/symbol-defs-BqTCejRs.svg",
+  "frame": "top",
+  "mimeType": "image/svg+xml",
+  "status": 200,
+  "contentEncoding": "br",
+  "onWire": 92690,
+  "decodedLen": 346533,
+  "sha": "a31a3e4e711747581619a28c39473ea4464e2ca228fc666b43aa47bd80ae7c0c",
+  "fetched": true,
+  "head": "<svg aria-hidden=\"true\" "
+ }
+}
